@@ -143,3 +143,34 @@ img{
   from {right: 320px}
   to {right: 0}
 }
+
+
+/* PAGE EVENTS */
+.up_events {
+	text-align: right;
+}
+.up_events h4 {
+	margin-right: 10px;
+	color: darkgreen;
+	font-weight: bolder;
+}
+
+.up_events p {
+	margin-right: 10px;
+	color:black;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.up_background {
+	background-image: url(../img/fondo_verde2.jpg);
+	background-position: center;
+	background-size: cover;
+	width: 100%; 
+	height: 100%;	
+}
+
+.up_background h2{
+	text-align: left;
+	margin-left: 33px;
+}
