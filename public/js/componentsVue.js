@@ -7,9 +7,9 @@ Vue.component('navs-tabs',{
 	</div>`,
 	data(){
 		return{
-			tabsnav :['Home','Schedule','Profile'],
+			tabsnav :['Home','Schedule','Events','NYSL'],
 			selecttab : 'Home',
-			iconos:['fas fa-home','far fa-calendar-alt','far fa-user']
+			iconos:['fas fa-home','far fa-calendar-alt','fa fa-futbol-o','fas fa-users']
 		}
 	},
 	methods:{
